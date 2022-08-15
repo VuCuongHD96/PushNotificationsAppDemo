@@ -1,0 +1,6 @@
+framework module MobioSDKSwift {
+  umbrella header "MobioSDKSwift-iOS15.4-umbrella.h"
+
+  export *
+  module * { export * }
+}

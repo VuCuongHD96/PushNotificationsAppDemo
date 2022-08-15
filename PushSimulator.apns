@@ -1,0 +1,12 @@
+{
+	"Simulator Target Bundle": "com.mobio.sdk",
+	"aps": {
+		"alert": {
+			"title": "watch video!!!",
+			"body": "new way"
+		},
+        "category": "myNotificationCategory",
+        "mutable-content": 1,
+        "rich_view": "one"
+	}
+}
